@@ -4,9 +4,12 @@ You can use the [editor on GitHub](https://github.com/AxiomGC/AxiomGC.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Problem Statement
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How might we identify, reduce, and measure the circulation of misinformation and bias in digital media? 
+
+## Who Are We?
+5 Grand Challenges students who aim to create a neural network that tracks bias in digital media and establish a database that autonomously identifies whether information published in digital media is in fact valid. 
 
 ```markdown
 Syntax highlighted code block
